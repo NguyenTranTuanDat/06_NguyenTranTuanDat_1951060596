@@ -1,0 +1,41 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.col-md-12{
+    padding: 0;
+}
+
+.my_intro{
+    text-align: justify;
+}
+
+footer{
+
+    background-color: rgb(219, 226, 226);
+}
+
+header .home .nav-item{
+    opacity: 0.5;
+}
+
+/* view */
+main .main_about1 form{
+    display: flex;
+}
+
+main .main_about1 form .new{
+    background-color: rgb(4, 136, 22);
+    margin: 17px 0px;
+    padding: 0px 10px;
+    color: rgb(255, 255, 255);
+}
+
+main .main_about1 form .pe{
+    padding: 15px 0;
+    margin-left: 10px;
+}
+
+main .main_left h4{
+    font-size: 50px;
+}
